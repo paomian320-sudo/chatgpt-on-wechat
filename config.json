@@ -1,8 +1,10 @@
 {
-  "channel_type": "wechatcom_app",
-  "wechatcom_corp_id": "",
-  "wechatcom_app_agent_id": "",
-  "wechatcom_app_secret": "",
-  "wechatcom_app_token": "",
-  "wechatcom_app_aes_key": ""
+  "channel_type": "wechatcom_app",   
+  "single_chat_prefix": [""],   
+  "wechatcom_corp_id": "",              
+  "wechatcomapp_token": "",             
+  "wechatcomapp_secret": "",           
+  "wechatcomapp_agent_id": "",          
+  "wechatcomapp_aes_key": "",
+  "wechatcomapp_port": 9898  
 }
